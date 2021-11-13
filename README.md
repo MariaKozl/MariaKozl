@@ -1,2 +1,2 @@
 # Methods-of-collectings
-Config files for my GitHub profile.
+Выполнение домашних заданий по курсу "Методы сбора и обработки данных из сети Интернет".
