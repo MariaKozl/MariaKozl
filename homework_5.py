@@ -1,3 +1,6 @@
+#Написать программу, которая собирает входящие письма из своего или тестового почтового ящика и сложить данные о письмах 
+#в базу данных (от кого, дата отправки, тема письма, текст письма полный)
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
